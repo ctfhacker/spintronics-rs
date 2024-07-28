@@ -26,4 +26,6 @@ o
 
 ## Output
 
+Load the `/home/user/test.spin` simulation file in the simulator:
+
 ![pic](./docs/example1.png)
