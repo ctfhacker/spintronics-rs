@@ -11,7 +11,7 @@ use spintronics::*;
 
 fn main() {
     let mut circuit = Circuit::new();
-o
+ 
     let motor = circuit.motor();
     let r1 = circuit.resistor(1000);
     let r2 = circuit.resistor(200);
