@@ -4,14 +4,14 @@
 
 This repository attempts to create an API to programmatically generate these simulation files.
 
-## Usage
+## Example
 
 ```
 use spintronics::*;
 
 fn main() {
     let mut circuit = Circuit::new();
-
+o
     let motor = circuit.motor();
     let r1 = circuit.resistor(1000);
     let r2 = circuit.resistor(200);
@@ -23,3 +23,7 @@ fn main() {
     circuit.save("/home/user/test.spin");
 }
 ```
+
+## Output
+
+![pic](./docs/example1.png)
