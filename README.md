@@ -6,7 +6,7 @@ This repository attempts to create an API to programmatically generate these sim
 
 ## Example
 
-```
+```rust
 use spintronics::*;
 
 fn main() {
