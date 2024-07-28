@@ -1,0 +1,1 @@
+{"version":1,"centerPoint":{"x":0,"y":0},"zoom":1,"viewDimensions":{"width":1916,"height":956},"parts":[{"type":"motor","x":-620,"y":0},{"type":"resistor","x":-45,"y":-25.98076211353316,"value":1000}],"chains":[{"connections":[{"partIndex":0,"level":2,"cw":true},{"partIndex":1,"level":2,"cw":true}]}]}
